@@ -45,5 +45,31 @@ int main(){
         printf("Número inválido para o jogo.\n");
     }
 
+/*
+    switch (num){
+    // caso não tenha nenhum break, ele vai executar todos os códigos a partir do primeiro case
+    // verdadeiro, então, nesse caso, caso digite 3 ou 4, ele vai printar a segunda e terceira
+    // mensagem.
+    
+        case 1: 
+        case 2:
+        printf("Saí correndo, não da para enfrentar!!!\n");
+        
+
+        case 3: 
+        case 4:
+        printf("Se esconda e aguarde reforços!!!\n");
+        
+
+        case 5: 
+        case 6:
+        printf("Bora enfrentar o boss!!!\n");
+        
+
+        default:
+        printf("Número inválido para o jogo.\n");
+    }
+*/
+
     return 0;
 }
