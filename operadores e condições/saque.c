@@ -20,7 +20,7 @@ int main() {
    } else {
         printf("Valor inválido! Por favor, digite um valor múltiplo de 10.\n");
    }*/
-
+     /*
      int cedulas = 0, saque, saldo = 0;
 
      printf("Digite o valor que deseja sacar: R$");
@@ -52,4 +52,5 @@ int main() {
      }
 
      return 0;
+     */
 }
