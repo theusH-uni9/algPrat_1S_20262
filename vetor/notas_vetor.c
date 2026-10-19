@@ -33,7 +33,7 @@ int main (){
     printf("]\n");
 
     printf("Soma das notas: %.1f, media das notas: %.1f.\n",soma,media);
-    if(media >= 7.0) printf("Aprovado!\n");
+    if(media >= 6.0) printf("Aprovado!\n");
     else printf("Reprovado.\n");
 
     return 0;
